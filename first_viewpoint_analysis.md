@@ -13,8 +13,8 @@ Access has never been even. Smartphones cost far more than the feature phones th
 ## Summary of the societal picture
 Nokia-era phones changed when and where people could be reached, and they gave many people in poorer regions their first real connection to markets and services. The iPhone and the smartphones that followed made that connection permanent and added a social layer on top of it, with gains in convenience and information and costs in attention, privacy and fairness of access. These costs are picked up again in the ethical section.
 ## References
-Aker, J.C. and Mbiti, I.M. (2010) 'Mobile phones and economic development in Africa', Journal of Economic Perspectives, 24(3), pp. 207–232.
-Ling, R. (2004) The mobile connection: the cell phone's impact on society. San Francisco: Morgan Kaufmann.
-Turkle, S. (2011) Alone together: why we expect more from technology and less from each other. New York: Basic Books.
+- Aker, J.C. and Mbiti, I.M. (2010) 'Mobile phones and economic development in Africa', Journal of Economic Perspectives, 24(3), pp. 207–232.
+- Ling, R. (2004) The mobile connection: the cell phone's impact on society. San Francisco: Morgan Kaufmann.
+- Turkle, S. (2011) Alone together: why we expect more from technology and less from each other. New York: Basic Books.
 
 
