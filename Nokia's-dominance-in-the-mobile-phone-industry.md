@@ -7,3 +7,24 @@ Nokia's success demonstrated how a company could become a market leader through 
 Nokia (1998). Nokia annual report 1998. [Annual Report] Available at: https://web.lib.aalto.fi/fi/old/yrityspalvelin/pdf/1998/enokia.pdf [Accessed 8 Nov. 2026].
 
 www.mobilephonehistory.co.uk. (n.d.). Nokia 3310. [online] Available at: https://www.mobilephonehistory.co.uk/nokia/nokia_3310.php [Accessed 8 Nov. 2026].
+
+# Apple's Entry into the Mobile Phone Market
+
+In January 2007, Apple entered the mobile phone industry by introducing its first iPhone, officially announced by Steve Jobs on 9 January 2007. This was a major development because Apple introduced a new approach to mobile phone design and functionality.
+
+Unlike many existing mobile phones, the iPhone combined three main features into one device: a mobile phone, a widescreen iPod and an internet communication device. It also introduced multi-touch touchscreen technology, allowing users to control the phone using their fingers instead of relying mainly on physical buttons and keypads (Apple, 2007).
+
+From a business perspective, Apple's introduction of the iPhone created significant competition in the mobile phone industry. Apple focused on combining hardware, software and digital services to provide a better customer experience. This attracted customers who wanted more advanced technology and demonstrated the importance of innovation and understanding customer needs.
+
+Apple (2007). Apple reinvents the phone with iPhone. [online] Apple Newsroom. Available at: https://www.apple.com/uk/newsroom/2007/01/09Apple-Reinvents-the-Phone-with-iPhone/ [Accessed 15 Nov. 2026].
+
+
+# Nokia vs Apple
+
+Following the introduction of the iPhone in 2007, competition in the mobile phone industry increased significantly. Before Apple's arrival, Nokia was one of the leading mobile phone manufacturers worldwide. However, Apple introduced a different business strategy by focusing on touchscreen technology, software development and customer experience.
+
+One major difference between the companies was their operating systems. Nokia mainly relied on Symbian, while Apple developed iOS for its iPhones. As customers increasingly demanded better applications, touchscreen interfaces and improved internet experiences, Nokia struggled to adapt to these changes. Apple gained an advantage by offering a more integrated software and application ecosystem (Doz, 2017).
+
+Nokia's decline was not caused by Apple alone. Internal management problems, slow decision-making and difficulties developing its software also contributed to its challenges. In 2011, Nokia partnered with Microsoft and adopted Windows Phone as its main smartphone operating system. However, this strategy failed to restore Nokia's previous position in the smartphone market. In 2013, Microsoft announced its acquisition of Nokia's mobile phone business (Doz, 2017).
+
+Doz, Y. (2017). The strategic decisions that caused Nokia’s failure. [online] INSEAD Knowledge. Available at: https://knowledge.insead.edu/strategy/strategic-decisions-caused-nokias-failure [Accessed 15 Nov. 2026].
