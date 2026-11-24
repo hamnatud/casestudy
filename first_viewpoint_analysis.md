@@ -18,7 +18,7 @@ Some studies estimate that this had no effect on people.Some studies suggest tha
 
 ## Who was left out
 
-Smartphones were a lot more expensive than the feature phones they replaced, leaving a space between those that can afford one and those that can't. The same gap is becoming important for everyday services, as a smartphone increasingly becomes the norm for banking, ticketing and government forms. The digital divide is no longer just a problem of who has a device, write van (Dijk, 2020). Now it also encompasses the capacity of individuals to utilise it and whether it is beneficial to them, and the differences are likely to mirror pre-existing inequalities of income, age and educational attainment. The (GSMA, 2023) comes to the same conclusion for mobile internet. The key challenges are cost, skills and relevance of what is available online, not the lack of coverage, as most people not using it live within range of a network signal. Older people and those living on low incomes are most affected and the same phone is not as effective for all.
+Smartphones were a lot more expensive than the feature phones they replaced, leaving a space between those that can afford one and those that can't. The same gap is becoming important for everyday services, as a smartphone increasingly becomes the norm for banking, ticketing and government forms. Now it also encompasses the capacity of individuals to utilise it and whether it is beneficial to them, and the differences are likely to mirror pre-existing inequalities of income, age and educational attainment. The (GSMA, 2023) comes to the same conclusion for mobile internet. The key challenges are cost, skills and relevance of what is available online, not the lack of coverage, as most people not using it live within range of a network signal. Older people and those living on low incomes are most affected and the same phone is not as effective for all.
 
 ## Societal picture
 
@@ -34,5 +34,5 @@ When and where people can be contacted, as well as providing a number of people 
 
 - Suri, T., Bharadwaj, P. and Jack, W. (2021) 'Fintech and household resilience to shocks: evidence from digital loans in Kenya', Journal of Development Economics, 153, article 102697.
 
-- van Dijk, J. (2020) The digital divide. Cambridge: Polity Press.
+
 
