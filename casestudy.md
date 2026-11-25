@@ -9,7 +9,7 @@ However, this all changed when Apple released the original iPhone in 2007. It fe
 In this case study, we aim to track the history of mobile technology and analyse its development along two viewpoints, from the first mobile phone to present day smartphones. We will analyze the impact that this evolution has had on both general society, such as access to the internet, online shopping and social networking. We will also analyse the impact it has had in the business world, such as improvements to communication in and between companies, the rise of remote work and blurring of work-life boundaries. Finally, we will evaluate the ethical implications that the evolution of mobile technology has had so far and what it may lead to in the future.
 
 # Historical Development
-- Nokia to the Iphone
+- Nokia to the iPhone
 - Timeline, key figures, major milestones
 
 Nokia's first venture into the mobile phone business was in 1979 as a join venture with Salora Oy which is a Finnish company that does electronics. Nokia established Mobira which was the manufacturer for their mobile radio telephones as a result of the joint venture. Mobira was the first to launch a international cellular network with the possibility to allow international roaming, they called this the Nordic Mobile Telephone and it was launched in 1981. 
@@ -39,15 +39,14 @@ Smartphones were a lot more expensive than the feature phones they replaced, lea
 When and where people can be contacted, as well as providing a number of people in poorer areas with their first real access to markets and financial services, have all been transformed by the Nokia era phones. The iPhone and the smartphones that followed did make it firm, and they piled it with a social over-layer, but at the price of greater convenience and information and the loss of attention, privacy and equality of access. These costs are then picked up again in the ethical section.
 
 
-# Second View Point
+# The Business Perspective: Second Viewpoint Analysis
 
-## Business Viewpoint
-# Nokia's Dominance in the Mobile Phone Industry
+## Nokia's Dominance in the Mobile Phone Industry
 During the 1990s and early 2000s Nokia became one of the most successful companies . Nokia became very popular in the 1990s, specifically after launching the Nokia 2100 series in 1994, which featured the iconic ringtone and sold 20 million units. And then in the Year 1998 it became the world largest phone manufacturers, selling approximately 40.8 million phones that year (Nokia, 1998). Its success was driven by its reliable products, affordable prices and ability to reach customers in different countries. One of Nokia's most popular phones was the Nokia 3310, which became well know in the 2000s for its durability, long life and simple design and sold 126 million of this phone (www.mobilephonehistory.co.uk, n.d.).
 
 Nokia's success demonstrated how a company could become a market leader through product quality, innovation and effective business strategies. However, as technology developed and customers began demanding more advanced mobile devices, Nokia faced increasing competition from companies introducing smartphones with touchscreen technology and improved software.*
 
-# Apple's Entry into the Mobile Phone Market
+## Apple's Entry into the Mobile Phone Market
 
 In January 2007, Apple entered the mobile phone industry by introducing its first iPhone, officially announced by Steve Jobs on 9 January 2007. This was a major development because Apple introduced a new approach to mobile phone design and functionality.
 
@@ -55,22 +54,21 @@ Unlike many existing mobile phones, the iPhone combined three main features into
 
 From a business perspective, Apple's introduction of the iPhone created significant competition in the mobile phone industry. Apple focused on combining hardware, software and digital services to provide a better customer experience. This attracted customers who wanted more advanced technology and demonstrated the importance of innovation and understanding customer needs.
 
-# Nokia vs Apple
+## Nokia vs Apple
 Following the introduction of the iPhone in 2007, competition in the mobile phone industry increased significantly. Before Apple's arrival, Nokia was one of the leading mobile phone manufacturers worldwide. However, Apple introduced a different business strategy by focusing on touchscreen technology, software development and customer experience.
 
 One major difference between the companies was their operating systems. Nokia mainly relied on Symbian, while Apple developed iOS for its iPhones. As customers increasingly demanded better applications, touchscreen interfaces and improved internet experiences, Nokia struggled to adapt to these changes. Apple gained an advantage by offering a more integrated software and application ecosystem (Doz, 2017).
 
 Nokia's decline was not caused by Apple alone. Internal management problems, slow decision-making and difficulties developing its software also contributed to its challenges. In 2011, Nokia partnered with Microsoft and adopted Windows Phone as its main smartphone operating system. However, this strategy failed to restore Nokia's previous position in the smartphone market. In 2013, Microsoft announced its acquisition of Nokia's mobile phone business (Doz, 2017).
 
-# Changes in  Business Models and revenue
-The development of smartphone greatly changed the way technology companies generated revenue in the past. In the past, mobile phone manufacturers were mostly dependant on sell physical devices to their customers. But, when they smartphone were introduced, they created new business opportunities through application stores, digital subscriptions, advertising and online services.
+## Changes in  Business Models and revenue
+The development of smartphone greatly changed the way technology companies generated revenue in the past. In the past, mobile phone manufacturers were mostly dependent on sell physical devices to their customers. But, when they smartphone were introduced, they created new business opportunities through application stores, digital subscriptions, advertising and online services.
 
 One major development was the introduction of Apple's App store in 2008, which allowed developers to create and distribute apps to iPhone users. This created opportunities for businesses and developers to generate income through paid applications, in-app purchases and subscriptions. Apple also generates revenue through services such as Apple Music, iCloud and digital advertising (Sec.gov, 2025).
 
-
 Smartphones also helped to create new opportunities for businesses to reach customers through mobile advertising, online shopping and digital services. Companies could generate additional income without depending entirely on physical product sales. Overall, smartphones transformed the mobile phone industry into a wider digital business market involving hardware, software, applications and online services.
  
-# Impact on the Mobile Phone Industry
+## Impact on the Mobile Phone Industry
 
 The evolution of mobile phones into smartphones has had a significant impact on businesses and the global economy. Smartphones have transformed from basic communication devices into important tools for business operations, communication and financial transactions. The industry has also become more competitive, with companies such as Apple, Samsung and Google constantly developing new technologies to attract customers.
 
