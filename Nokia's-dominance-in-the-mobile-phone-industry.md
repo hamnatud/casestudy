@@ -28,3 +28,32 @@ One major difference between the companies was their operating systems. Nokia ma
 Nokia's decline was not caused by Apple alone. Internal management problems, slow decision-making and difficulties developing its software also contributed to its challenges. In 2011, Nokia partnered with Microsoft and adopted Windows Phone as its main smartphone operating system. However, this strategy failed to restore Nokia's previous position in the smartphone market. In 2013, Microsoft announced its acquisition of Nokia's mobile phone business (Doz, 2017).
 
 Doz, Y. (2017). The strategic decisions that caused Nokia’s failure. [online] INSEAD Knowledge. Available at: https://knowledge.insead.edu/strategy/strategic-decisions-caused-nokias-failure [Accessed 15 Nov. 2026].
+
+# Changes in  Business Models and revenue
+The development of smartphone greatly changed the way technology companies generated revenue in the past. In the past, mobile phone manufacturers were mostly dependant on sell physical devices to their customers. But, when they smartphone were introduced, they created new business opportunities through application stores, digital subscriptions, advertising and online services.
+
+One major development was the introduction of Apple's App store in 2008, which allowed developers to create and distribute apps to iPhone users. This created opportunities for businesses and developers to generate income through paid applications, in-app purchases and subscriptions. Apple also generates revenue through services such as Apple Music, iCloud and digital advertising (Sec.gov, 2025).
+
+
+Smartphones also helped to create new opportunities for businesses to reach customers through mobile advertising, online shopping and digital services. Companies could generate additional income without depending entirely on physical product sales. Overall, smartphones transformed the mobile phone industry into a wider digital business market involving hardware, software, applications and online services.
+ 
+
+Sec.gov. (2025). AAPL-20250927. [online] Available at: https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm [Accessed 23 Nov. 2026].
+
+
+
+# Impact on the Mobile Phone Industry
+
+The evolution of mobile phones into smartphones has had a significant impact on businesses and the global economy. Smartphones have transformed from basic communication devices into important tools for business operations, communication and financial transactions. The industry has also become more competitive, with companies such as Apple, Samsung and Google constantly developing new technologies to attract customers.
+
+One major impact has been the growth of online shopping and mobile banking. Customers can now purchase products, transfer money and make payments directly from their smartphones. This has allowed businesses to reach more customers and provide services more conveniently. According to Group (2025), mobile phones are increasingly being used for digital financial transactions and payments.
+
+Smartphones have also changed how businesses communicate and advertise their products. Companies can use mobile applications, social media and online platforms to interact with customers and promote their services. The GSMA (2026) reports that mobile technologies and services contributed approximately $7.6 trillion to the global economy in 2025. This demonstrates the important role mobile technology now plays in modern business and economic development.
+
+Overall, the transition from traditional mobile phones to smartphones has created new business opportunities, increased competition and changed how companies interact with customers.
+
+
+
+Group, W.B. (2025). Mobile-phone technology powers saving surge in developing economies. [online] World Bank. Available at: https://www.worldbank.org/en/news/press-release/2025/07/16/mobile-phone-technology-powers-saving-surge-in-developing-economies [Accessed 23 Nov. 2026].
+
+GSMA (2026b). The mobile economy 2026. [online] GSMA. Available at: https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-economy/wp-content/uploads/2026/02/The-Mobile-Economy-2026.pdf [Accessed 23 Nov. 2026].
