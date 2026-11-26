@@ -38,7 +38,6 @@ Smartphones were a lot more expensive than the feature phones they replaced, lea
 
 When and where people can be contacted, as well as providing a number of people in poorer areas with their first real access to markets and financial services, have all been transformed by the Nokia era phones. The iPhone and the smartphones that followed did make it firm, and they piled it with a social over-layer, but at the price of greater convenience and information and the loss of attention, privacy and equality of access. These costs are then picked up again in the ethical section.
 
-
 # The Business Perspective: Second Viewpoint Analysis
 
 ## Nokia's Dominance in the Mobile Phone Industry
@@ -80,36 +79,37 @@ Overall, the transition from traditional mobile phones to smartphones has create
 
 # Ethical Reflection and Improvements.
 
-The evollution from Nokia mobile phone to the Apple iPhone brought benefits such easier communication, access to information and digital services. However, it also created ethical responsibilities for manufacturers and software companies. Smartphone success should not be judged only by or innovation; its effects on privacy, the environment and people's wellbeing must also be considered.
+The evolution from Nokia mobile phone to the Apple iPhone brought benefits such easier communication, access to information and digital services. However, it also created ethical responsibilities for manufacturers and software companies. Smartphone success should not be judged only by or innovation; its effects on privacy, the environment and people's well being must also be considered.
 
 ## Privacy and Personal Information
-Current smartpohones and applications have the capabilty to gather personal data like locations, contacts, pictures, and web history. While this may improve services, there are dangers associated with the gathering of uneccerssary data, the sharing of data without proper consent, and inadequate security measures for protecting data
+Current smartphones and applications have the capabilty to gather personal data like locations, contacts, pictures, and web history. While this may improve services, there are dangers associated with the gathering of unnecessary data, the sharing of data without proper consent, and inadequate security measures for protecting data
 
 ## Suggestions for improvements:
-The companies should clearly eplain how the data is collected, collect only the data necessary for their service, and also provide simple tot use privacy settings. The users should have the bility to control the access to location, have the right to revoke the permission, and delete their information.
+The companies should clearly explain how the data is collected, collect only the data necessary for their service, and also provide simple tot use privacy settings. The users should have the ability to control the access to location, have the right to revoke the permission, and delete their information.
 
 ## Electronic Waste and Environment
-Smartphones are made of materials, energy, and production processes which impact the environment. Constant change leads to e-waste. According to the World Health Organization, 62 million tons of e-wast have been created globally in 2022, and only 22.3% has been formally reported as collected and recycled(WHO,2024). It shows the importance of responsible design and disposal of products.
+Smartphones are made of materials, energy, and production processes which impact the environment. Constant change leads to e-waste. According to the World Health Organization, 62 million tons of e-waste have been created globally in 2022, and only 22.3% has been formally reported as collected and recycled(WHO,2024). It shows the importance of responsible design and disposal of products.
+
 ## Solution:
-Manufacturers shoulddesign products to be easier and cheaper to fix, provide spare parts and updates for longer periods, use recycled material if possible. Also, manufacturers should design phones for reuse by offering take-back, trade-in, and refurbishing programs. Consumers should dispose of used phones via recycling services. Ecodesign requirements for the smartpohones effective from June 2025 under the EU regulations contain the following requirements: durability, battery performance, and reparability (European Commission, 2025).
+Manufacturers should design products to be easier and cheaper to fix, provide spare parts and updates for longer periods, use recycled material if possible. Also, manufacturers should design phones for reuse by offering take-back, trade-in, and refurbishing programs. Consumers should dispose of used phones via recycling services. Ecodesign requirements for the smartphones effective from June 2025 under the EU regulations contain the following requirements: durability, battery performance, and repairability (European Commission, 2025).
 
 ## Digital Divide and Accessibility
-Smartphones aenable one to learn, work, perform banking transactions, and communicate, but not everyone can afford the right smartphone or Internet connectivity. There may be some challanges for older adults and persons with disabilities when it comes to usage of applications. 
+Smartphones enable one to learn, work, perform banking transactions, and communicate, but not everyone can afford the right smartphone or Internet connectivity. There may be some challenges for older adults and persons with disabilities when it comes to usage of applications. 
 
 ## Improvements:
-Companies must ensure that they have affordable smartphones and that applications are easy to use. This will include screen reder compatibility and text scalability. Public services must be offered in such a way that the individual doesn't have to own a smartphone to take advantage of them.
+Companies must ensure that they have affordable smartphones and that applications are easy to use. This will include screen render compatibility and text scalability. Public services must be offered in such a way that the individual doesn't have to own a smartphone to take advantage of them.
 
 ## Usefulness and Well-Being
 Our phones connect us and entertain us. But all those pings and social feeds can distract us, disrupt our sleep and undermine our social relationships. These issues are in our control. It's up to us as individuals how we use our phones. And as companies, what kids of habits do the products we create promote?
 
 ## Improvements:
-companies should makes apps that help users monitor the amount of time on the phones and allow customize alerts and setl imits for children. People should also take breaks from their phones and set personal limits such as during schoool and family hours.
+Companies should makes apps that help users monitor the amount of time on the phones and allow customize alerts and set limits for children. People should also take breaks from their phones and set personal limits such as during school and family hours.
 
 # Conclusion
-In summary, The journey from Nokia phones to iPhones illustrates the impact of new technology on our lives, and also highlights our responsibilities. Manufactureers need to safeguard privacy, reduce environmental impact and develop inclusive technology; governments should make regulations; and consumers have control over how they consume and dispose of their devices.
+TBA
 
 # References
-https://www.bbc.co.uk/bitesize/articles/z62gjfr
+- https://www.bbc.co.uk/bitesize/articles/z62gjfr
 - Teodorescu, C.A., Durnoi, A.N.C. and Vargas, V.M., 2023, July. The rise of the mobile internet: tracing the evolution of portable devices. In Proceedings of the International Conference on Business Excellence (Vol. 17, No. 1, pp. 1645-1654). Bucharest University of Economic Studies.
 - Grasser, A. and Austin, D., 2021. The History of Mobile Phones.
 - Allcott, H., Braghieri, L., Eichmeyer, S. and Gentzkow, M. (2020) 'The welfare effects of social media', American Economic Review, 110(3), pp. 629–676.
@@ -118,9 +118,9 @@ https://www.bbc.co.uk/bitesize/articles/z62gjfr
 - Suri, T., Bharadwaj, P. and Jack, W. (2021) 'Fintech and household resilience to shocks: evidence from digital loans in Kenya', Journal of Development Economics, 153, article 102697.
 - Doz, Y. (2017). The strategic decisions that caused Nokia’s failure. [online] INSEAD Knowledge. Available at: https://knowledge.insead.edu/strategy/strategic-decisions-caused-nokias-failure [Accessed 15 Nov. 2026].
 - Nokia timeline(2013)Irish times. availible at: https://www.irishtimes.com/business/technology/nokia-timeline-1.1514981
-GSMA (2026b). The mobile economy 2026. [online] GSMA. Available at: https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-economy/wp-content/uploads/2026/02/The-Mobile-Economy-2026.pdf [Accessed 23 Nov. 2026].
-Group, W.B. (2025). Mobile-phone technology powers saving surge in developing economies. [online] World Bank. Available at: https://www.worldbank.org/en/news/press-release/2025/07/16/mobile-phone-technology-powers-saving-surge-in-developing-economies [Accessed 23 Nov. 2026].
-Sec.gov. (2025). AAPL-20250927. [online] Available at: https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm [Accessed 23 Nov. 2026].
-Apple (2007). Apple reinvents the phone with iPhone. [online] Apple Newsroom. Available at: https://www.apple.com/uk/newsroom/2007/01/09Apple-Reinvents-the-Phone-with-iPhone/ [Accessed 15 Nov. 2026].
-Nokia (1998). Nokia annual report 1998. [Annual Report] Available at: https://web.lib.aalto.fi/fi/old/yrityspalvelin/pdf/1998/enokia.pdf [Accessed 8 Nov. 2026].
+- GSMA (2026b). The mobile economy 2026. [online] GSMA. Available at: https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-economy/wp-content/uploads/2026/02/The-Mobile-Economy-2026.pdf [Accessed 23 Nov. 2026].
+- Group, W.B. (2025). Mobile-phone technology powers saving surge in developing economies. [online] World Bank. Available at: https://www.worldbank.org/en/news/press-release/2025/07/16/mobile-phone-technology-powers-saving-surge-in-developing-economies [Accessed 23 Nov. 2026].
+- Sec.gov. (2025). AAPL-20250927. [online] Available at: https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm [Accessed 23 Nov. 2026].
+- Apple (2007). Apple reinvents the phone with iPhone. [online] Apple Newsroom. Available at: https://www.apple.com/uk/newsroom/2007/01/09Apple-Reinvents-the-Phone-with-iPhone/ [Accessed 15 Nov. 2026].
+- Nokia (1998). Nokia annual report 1998. [Annual Report] Available at: https://web.lib.aalto.fi/fi/old/yrityspalvelin/pdf/1998/enokia.pdf [Accessed 8 Nov. 2026].
 www.mobilephonehistory.co.uk. (n.d.). Nokia 3310. [online] Available at: https://www.mobilephonehistory.co.uk/nokia/nokia_3310.php [Accessed 8 Nov. 2026].
