@@ -105,8 +105,8 @@ Our phones connect us and entertain us. But all those pings and social feeds can
 ## Improvements:
 Companies should makes apps that help users monitor the amount of time on the phones and allow customize alerts and set limits for children. People should also take breaks from their phones and set personal limits such as during school and family hours.
 
-# Conclusion
-TBA
+# Conclusion (W.I.P)
+The mobile phone has transformed from a simple communication device to one of the most common types of computers, used by billions of people daily. This transformation didn't come about just because of better hardware, but an increase of use cases and a shift in how it has integrated into human life. However, that isn't to rule out the important leaps in technology that helped the integration. (historical development) 
 
 # References
 - https://www.bbc.co.uk/bitesize/articles/z62gjfr
