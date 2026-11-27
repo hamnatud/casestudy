@@ -1,5 +1,4 @@
 # Evolution of mobile phones to smartphones (Nokia to iPhone)
--Our view points: Business and Societal impacts
 
 # Introduction
 Mobile technology has undergone a massive evolution from the days of Motorola and Nokia to present day iPhones. The mobile phone market was initially dominated by Nokia in the 90s and early 2000s, with releases such as the Nokia 1110 and 3310 selling hundreds of millions of units across the globe, including in developing countries. These devices were praised for their low price, durability and long battery lives which at the time, was exactly what people wanted in their mobile phone.
@@ -125,7 +124,12 @@ Our phones connect us and entertain us. But all those pings and social feeds can
 Companies should makes apps that help users monitor the amount of time on the phones and allow customize alerts and set limits for children. People should also take breaks from their phones and set personal limits such as during school and family hours.
 
 # Conclusion
-The mobile phone has transformed from a simple communication device to one of the most common types of computers, used by billions of people daily. This transformation didn't come about just because of better hardware, but an increase of use cases and a shift in how it has integrated into human life. However, that isn't to rule out the important leaps in technology that helped the integration. In 1996, the selling point of the Nokia 9000, was that it could send emails, fax and browse the web. Today, this is considered the bare minimum for a mobile phone. Phones have become a status symbol in society, with people being judged by their peers based on what brand or model of phone they have. Instead of Nokia, Apple have become one of the best-selling phone companies, rivaled only by Samsung. The rise of online shopping has fundamentally changed the business environment for companies, changing the range of services they offer and how customers can access them. With these changes, concerns have been raised over how ethically companies are collecting data on their customers through mobile phones, and also how the phones are manufactured, assembled, and eventually end up as e-waste. Overall, technology-wise mobile phones have advanced by leaps and bounds compared to their predecessors, and still are, with technology such as folding screens being the latest trend. Its difficult to predict what is next for mobile phones, only time will tell.
+The mobile phone has transformed from a simple communication device to one of the most common types of computers, used by billions of people daily. This transformation didn't come about just because of better hardware, but an increase of use cases and a shift in how it has integrated into human life. 
+
+However, that isn't to rule out the important leaps in technology that helped the integration. In 1996, the selling point of the Nokia 9000, was that it could send emails, fax and browse the web. Today, this is considered the bare minimum for a mobile phone. Phones have become a status symbol in society, with people being judged by their peers based on what brand or model of phone they have. Instead of Nokia, Apple have become one of the best-selling phone companies, rivaled only by Samsung. 
+The rise of online shopping has fundamentally changed the business environment for companies, changing the range of services they offer and how customers can access them. With these changes, concerns have been raised over how ethically companies are collecting data on their customers through mobile phones, and also how the phones are manufactured, assembled, and eventually end up as e-waste.
+
+Overall, technology-wise mobile phones have advanced by leaps and bounds compared to their predecessors, and still are, with technology such as folding screens being the latest trend. Its difficult to predict what is next for mobile phones, only time will tell.
 
 # References
 - https://www.bbc.co.uk/bitesize/articles/z62gjfr
